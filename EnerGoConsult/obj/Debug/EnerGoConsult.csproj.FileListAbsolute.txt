@@ -1,1 +1,10 @@
 C:\Users\str\Desktop\EnerGoConsult\EnerGoConsult\bin\Debug\EnerGoConsult.exe.config
+D:\TestTasks\EnerGoConsult\EnerGoConsult\bin\Debug\EnerGoConsult.exe.config
+D:\TestTasks\EnerGoConsult\EnerGoConsult\bin\Debug\EnerGoConsult.exe
+D:\TestTasks\EnerGoConsult\EnerGoConsult\bin\Debug\EnerGoConsult.pdb
+D:\TestTasks\EnerGoConsult\EnerGoConsult\obj\Debug\EnerGoConsult.csprojResolveAssemblyReference.cache
+D:\TestTasks\EnerGoConsult\EnerGoConsult\obj\Debug\EnerGoConsult.Form1.resources
+D:\TestTasks\EnerGoConsult\EnerGoConsult\obj\Debug\EnerGoConsult.Properties.Resources.resources
+D:\TestTasks\EnerGoConsult\EnerGoConsult\obj\Debug\EnerGoConsult.csproj.GenerateResource.Cache
+D:\TestTasks\EnerGoConsult\EnerGoConsult\obj\Debug\EnerGoConsult.exe
+D:\TestTasks\EnerGoConsult\EnerGoConsult\obj\Debug\EnerGoConsult.pdb
